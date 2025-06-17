@@ -1,4 +1,4 @@
-# The Augmented Intelligence AIOps (AIA) Manifesto
+# The Augmented Intelligence AIOps (AIA) Manifest
 
 The prevailing promise of AIOps has been one of total automation—a future where systems heal themselves. Yet, this pursuit of autonomous remediation has often generated more skepticism than trust, treating the human engineer as a variable to be eliminated rather than a partner to be empowered.
 
